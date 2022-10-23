@@ -6,7 +6,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'specs_to_readme'
+gem 'specs_to_readme', git: "https://github.com/jelaniwoods/specs_to_readme", branch: "main"
 ```
 
 And then execute:
