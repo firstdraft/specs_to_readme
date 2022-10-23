@@ -1,0 +1,4 @@
+require 'specs_to_readme'
+
+path = File.expand_path(__dir__)
+Dir.glob("#{path}/tasks/**/*.rake").each { |f| import f }
