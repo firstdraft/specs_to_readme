@@ -6,7 +6,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'specs_to_readme', git: "https://github.com/jelaniwoods/specs_to_readme", branch: "main"
+gem 'specs_to_readme', git: "https://github.com/firstdraft/specs_to_readme", branch: "main"
 ```
 
 And then execute:
@@ -33,7 +33,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/specs_to_readme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/specs_to_readme/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/firstdraft/specs_to_readme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/firstdraft/specs_to_readme/blob/main/CODE_OF_CONDUCT.md).
 
 
 ## License
@@ -42,4 +42,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the SpecsToReadme project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/specs_to_readme/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the SpecsToReadme project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/firstdraft/specs_to_readme/blob/main/CODE_OF_CONDUCT.md).
