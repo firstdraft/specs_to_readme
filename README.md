@@ -3,7 +3,7 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your application's `Gemfile` in the development group:
 
 ```ruby
 gem 'specs_to_readme', git: "https://github.com/firstdraft/specs_to_readme", branch: "main"
